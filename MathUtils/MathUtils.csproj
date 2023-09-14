@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>MiJenner</RootNamespace>
+    <PackageId>MiJenner.MathUtils</PackageId>
+    <Title>MiJenner.MathUtils</Title>
+    <Version>0.9.0</Version>
+    <Authors>Michael Jenner</Authors>
+    <Company>Jenner IT</Company>
+    <Product>MiJennerMathUtils</Product>
+    <Description>Library with static methods for various math operations. </Description>
+    <Copyright>Copyright (c) 2023 Jenner IT </Copyright>
+  </PropertyGroup>
+
+</Project>
